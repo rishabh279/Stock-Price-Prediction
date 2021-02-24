@@ -24,6 +24,7 @@ Choose the latest versions of any of the dependencies below:
 * [optuna](https://optuna.org/)
 * [pytoch](https://pytorch.org/)
 * [statsmodels](https://www.statsmodels.org/stable/install.html)
+* [Dash](https://plotly.com/)
 
 ## License
 

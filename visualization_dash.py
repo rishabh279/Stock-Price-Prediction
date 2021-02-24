@@ -5,11 +5,6 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-# df = px.data.stocks()
-# print(type(df))
-# print(df.columns)
-# print(df.head())
-
 df = pd.read_csv('NSE-Tata-Global-Beverages-Limited.csv')
 
 app = dash.Dash(__name__)
